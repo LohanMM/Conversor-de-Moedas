@@ -13,6 +13,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   background: url(bg.png) #72757e no-repeat center;
+  background-size: cover;
 }
 
 #root {
